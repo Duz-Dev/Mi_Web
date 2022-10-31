@@ -1,0 +1,9 @@
+#-> Archivo git_ignore <-
+
+#Este archivo nos sirve para declarar que contenido queremos que sea ignorado por el propio git, que a su vez no sera posible visualizarlo ni con git status y seleccionar algo dentro de lo ya declarado aca con git add.
+
+##Contenido a ignorar
+.env
+No_subir/
+nota_ejemplo.txt
+
